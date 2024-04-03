@@ -32,3 +32,5 @@ function distanceFromHqInBlocks (blockNumber) {
       return 'cannot travel that far';
     }
   }
+
+console.log(distanceTravelledInFeet())
